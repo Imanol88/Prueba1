@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/drawable/ejemplo_layout.xml" value="0.305" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/drawable/ic_menu_foreground.xml" value="0.308" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_configuracion.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_main.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_pantalla_principal.xml" value="0.1" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_perfil.xml" value="0.2815614617940199" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/activity_restablecer_contrasenia.xml" value="0.2595108695652174" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/layout/nav_header.xml" value="0.18410757946210268" />
+        <entry key="..\:/Users/imano/Desktop/ZZZTemporal/Wilis/App Proyecto/Prueba1/app/src/main/res/menu/menu.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

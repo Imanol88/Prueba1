@@ -1,0 +1,181 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Relative_Layout_Perfil"
+    tools:context=".Perfil">
+
+    <TextView
+        android:layout_width="200px"
+        android:layout_height="70px"
+        android:id="@+id/Nombre_de_Usuario"
+        android:layout_marginStart="100px"
+        android:layout_marginTop="100px"
+        android:text="Nombre"
+        android:textSize="50px" />
+
+    <TextView
+        android:layout_width="180px"
+        android:layout_height="70px"
+        android:id="@+id/Nivel"
+        android:layout_marginStart="650px"
+        android:layout_marginTop="100px"
+        android:text="Nombre"
+        android:textSize="50px" />
+
+    <TextView
+        android:id="@+id/Descripcion"
+        android:layout_width="880px"
+        android:layout_height="300px"
+        android:layout_marginStart="100px"
+        android:layout_marginTop="280px"
+        android:text="Nombre" />
+
+
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:id="@+id/Horizontal_ScrollView_logros"
+        android:layout_marginTop="680px">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:id="@+id/Logro_1"
+                android:layout_marginLeft="100px"
+                android:layout_marginTop="0px"
+                android:background="@drawable/person"
+                />
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:id="@+id/Logro_2"
+                android:layout_marginLeft="100px"
+                android:layout_marginTop="0px"
+                android:background="@drawable/eye_close"
+                />
+
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:id="@+id/Logro_3"
+                android:layout_marginLeft="100px"
+                android:layout_marginTop="0px"
+                android:background="@drawable/person"
+                />
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:id="@+id/Logro_4"
+                android:layout_marginLeft="100px"
+                android:layout_marginTop="0px"
+                android:background="@drawable/eye_open"
+                />
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_height="200px"
+                android:id="@+id/Logro_5"
+                android:layout_marginLeft="100px"
+                android:layout_marginTop="0px"
+                android:background="@drawable/person"
+                />
+
+
+        </LinearLayout>
+
+
+
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="980px"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="390px"
+            android:layout_height="390px"
+            android:id="@+id/Calculadora_Aritmetica"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="0px"
+            android:background="@drawable/person"
+            />
+
+        <ImageView
+            android:layout_width="390px"
+            android:layout_height="390px"
+            android:id="@+id/Calculadora_Quimica"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="0px"
+            android:background="@drawable/eye_open"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1480px"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="390px"
+            android:layout_height="390px"
+            android:id="@+id/Conversor_de_Magnitudes"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="0px"
+            android:background="@drawable/person"
+            />
+
+        <ImageView
+            android:layout_width="390px"
+            android:layout_height="390px"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="0px"
+            android:background="@drawable/eye_close"
+            />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Boton_Configuracion"
+        android:layout_width="500px"
+        android:layout_height="150px"
+        android:layout_marginLeft="100px"
+        android:layout_marginTop="1980px"
+        android:text="Configurar" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:id="@+id/TextView_Prueba"
+        android:layout_marginTop="2230px"
+        />
+
+
+</RelativeLayout>
+
+
+
+
+
+</ScrollView>
